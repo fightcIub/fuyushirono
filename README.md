@@ -7,5 +7,5 @@ w2i
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=stalkers&color=red"
+<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=stalkers&color=red&style=plastic"
 </p>
